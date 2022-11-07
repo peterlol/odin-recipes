@@ -1,0 +1,1 @@
+In this project I test what I have learned following the foundations course of The Odin Project. 
